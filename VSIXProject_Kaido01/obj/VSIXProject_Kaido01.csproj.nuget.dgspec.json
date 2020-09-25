@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\b12k5003\\source\\repos\\VSIXProject_Kaido01\\VSIXProject_Kaido01\\VSIXProject_Kaido01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\b12k5003\\source\\repos\\VSIXProject_Kaido01\\VSIXProject_Kaido01\\VSIXProject_Kaido01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b12k5003\\source\\repos\\VSIXProject_Kaido01\\VSIXProject_Kaido01\\VSIXProject_Kaido01.csproj",
+        "projectName": "VSIXProject_Kaido01",
+        "projectPath": "C:\\Users\\b12k5003\\source\\repos\\VSIXProject_Kaido01\\VSIXProject_Kaido01\\VSIXProject_Kaido01.csproj",
+        "packagesPath": "C:\\Users\\b12k5003\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b12k5003\\source\\repos\\VSIXProject_Kaido01\\VSIXProject_Kaido01\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\b12k5003\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.7.3069, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.206, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
